@@ -1,0 +1,60 @@
+.contenedor-titulo {
+	background-color: #FE842F;
+	color: #fff;
+}
+
+.contenedor-empresa {
+	background-color: #AC7546;
+	color: #fff;
+}
+
+.color_empresa {
+	background-color: #FE842F;
+	color: #fff;
+}
+
+.recuadro-padding {
+	border: 1px solid #000;
+	background-color: #FE842F;
+	color: #fff;
+	padding: 0px 5px 5px 10px;
+}
+
+hr {
+	background-color: #744919;
+	height: 5px;
+}
+
+.redes {
+	background-color: #FE842F;
+	color: #fff;
+	padding: 0px;
+}
+
+footer {
+	background-color: #623A0E;
+	color: #F0F0F0;
+	font-size: large;
+	line-height: 200%;
+}
+
+
+
+/* Viene de docs.css donde se ubicaba originalmente */
+/* Share masthead with page headers */
+.bs-docs-masthead,
+.bs-docs-header {
+	position: relative;
+	padding: 30px 0;
+	color: #FFDDAC; /* HGV Color texto titulo */
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(0,0,0,.1);
+
+/* /* This gradient: http://colorzilla.com/gradient-editor/#7c4a00+0,7a4e11+50,77501d+100 */
+	background: #7c4a00; /* Old browsers */
+	background: -moz-linear-gradient(top,  #7c4a00 0%, #7a4e11 50%, #77501d 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #7c4a00 0%,#7a4e11 50%,#77501d 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #7c4a00 0%,#7a4e11 50%,#77501d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7c4a00', endColorstr='#77501d',GradientType=0 ); /* IE6-9 */
+	background-repeat: repeat-x;
+}
